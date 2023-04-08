@@ -1,0 +1,4 @@
+.columnBorder {
+  border: 3px solid #cf0c0c;
+  border-top: 2px solid red !important;
+}
